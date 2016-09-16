@@ -1,0 +1,16 @@
+{
+    "token": "REPLACE THIS",
+    "owner": "133894531950182400",
+    "minecraft_servers": [
+        "p.nerd.nu",
+        "c.nerd.nu",
+        "m.nerd.nu"
+    ],
+    "rss_feeds": {
+        "https://www.reddit.com/r/mcpublic/.rss": "CHANNEL ID HERE"
+    },
+    "responses": {
+        "(╯°□°)╯ ︵ ┻━┻": "┬──┬ ノ( ゜-゜ノ)",
+        "loggin": "http://i.imgur.com/ZjL5ibs.jpg"
+    }
+}
