@@ -10,7 +10,7 @@
         "https://www.reddit.com/r/mcpublic/.rss": "CHANNEL ID HERE"
     },
     "responses": {
-        "(╯°□°)╯ ︵ ┻━┻": "┬──┬ ノ( ゜-゜ノ)",
-        "loggin": "http://i.imgur.com/ZjL5ibs.jpg"
+        "\\(╯°□°\\)╯ ︵ ┻━┻": "┬──┬ ノ( ゜-゜ノ)",
+        "\\bloggin\\b": "http://i.imgur.com/ZjL5ibs.jpg"
     }
 }
