@@ -9,7 +9,8 @@ enabled_plugins = [
     "plugins.insults",
     "plugins.mcstatus",
     "plugins.responses",
-    "plugins.rss"
+    "plugins.rss",
+    "plugins.wolframalpha"
 ]
 
 description = '''A bot for the Nerd.nu Discord guild'''
